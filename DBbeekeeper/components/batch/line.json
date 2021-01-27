@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_batch_lines",
+  "info": {
+    "name": "Line",
+    "icon": "ad"
+  },
+  "options": {},
+  "attributes": {
+    "a": {
+      "type": "string"
+    },
+    "b": {
+      "type": "string"
+    },
+    "c": {
+      "type": "string"
+    },
+    "d": {
+      "type": "string"
+    },
+    "e": {
+      "type": "string"
+    },
+    "f": {
+      "type": "string"
+    }
+  }
+}

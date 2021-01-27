@@ -1,0 +1,47 @@
+{
+  "kind": "collectionType",
+  "collectionName": "membres",
+  "info": {
+    "name": "Membre"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "first_name": {
+      "type": "string"
+    },
+    "last_name": {
+      "type": "string"
+    },
+    "picture": {
+      "collection": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "plugin": "upload",
+      "required": false
+    },
+    "specialty": {
+      "type": "enumeration",
+      "enum": [
+        "ir",
+        "ase"
+      ]
+    },
+    "promo1": {
+      "type": "integer"
+    },
+    "promo2": {
+      "type": "integer"
+    },
+    "link": {
+      "type": "string"
+    }
+  }
+}

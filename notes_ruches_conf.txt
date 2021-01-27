@@ -1,0 +1,63 @@
+2 serveurs : 
+qui récup 
+site qui visualise
+
+tous les x temps récupérer les données de la ruche
+un cron?
+https://www.youtube.com/watch?v=kL5rmcxwgSs (j'ai pas regardé la vidéo)
+
+évolution de la météo sur une journée/semaine/mois
+toutes les demi-heures et stocker les valeurs brutes et essayer d'avoir une évolution de la météo
+et faire la même sur la station d'acquisitition de la ruche.
+
+réfléchir sur une visualisation - tableau => graphs/courbes ?
+
+les gens accéder aux données brutes
+
+un truc un peu sympa
+
+
+est-ce que ça vaut le coup de le mettre dans une bdd ?
+ou d'avoir des fichiers csv/json dans lequel à chaque mesure on rajoute une ligne puis on retraite?
+=> les deux se valent
+
+tout dans un seul tableau au lieu de 4
+gros tableau avec colonnes horodatage : une ligne de valeur
+pour :
+- faire des courbes avec les données (sur semaine, mois..etc)
+- filtrer ptet pour certaines valeurs qui parle un peu, température max et mini
+
+utilisation d'un poste à l'école pour stocker les données? la bdd sur ce pc
+serveur virtuel charger les données
+serveur web qui va faire le site, il n'aura pas accès au serveur de données, c'est le serveur de données qui va push sur le serveur de web
+
+cahier des charges :
+réalisation page web et d'un serveur de données acqui° traitement (précision par M. Dupuis)
+station météo
+récupération d'un projet qui existe
+
+avoir compris le sujet
+but : suivre ce qu'il se passe dans une ruche
+ projet protection des abeilles, à partir des capteurs
+
+
+si on trouve le moyen d'avoir un script persistant en python
+
+évolution (ce que M. Dupuis veut entendre) : 
+c'est le moment de rajouter du sucre, récolter le miel
+
+Intérêt du projet :
+partie production/bien-être de la ruche
+suivre la santé de la ruche, à l'intérieur de la ruche, évolution poids bruit etc
+
+Intérêt pédagogique : mettre à disposition des datas, générer un tableau de chiffres
+
+
+Accès ruche :
+fibre marche
+achat d'un équipement cisco robuste et installé sur le système
+d'ici qques jours on doit avoir le système qui marche
+un des gros pb : premier équipement cisco n'a pas tenu le coup
+
+
+RDV d'ici 2/3 semaines.

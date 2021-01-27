@@ -1,0 +1,19 @@
+{
+  "kind": "collectionType",
+  "collectionName": "meteos",
+  "info": {
+    "name": "Météo"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "Batch": {
+      "type": "component",
+      "repeatable": true,
+      "component": "batch.line"
+    }
+  }
+}
