@@ -17,6 +17,16 @@ import requests
 import json
 import schedule
 from datetime import datetime
+import codecs
+
+def apiGet():
+    response = requests.get("http://localhost:1337/meteos")
+    return response.text
+
+def fileSave(data):
+    with codecs.open("backup.json", 'w', encoding='utf8') as f:
+        f.write(data)
+    f.close()
 
 def webScrap():
     options = Options()
@@ -103,6 +113,7 @@ def dataClean(t1, t2, t3, t4):
 def apiPost(lines):
     batch = {"Batch": lines}
     response = requests.post("http://localhost:1337/meteos", json = batch)
+    fileSave(apiGet())     #backup
     return response
 
 def scraper():

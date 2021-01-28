@@ -4089,3 +4089,795 @@ JavaScript warning: https://www.weatherlink.com/js/6.32.5/vendor/davis/validatio
 JavaScript warning: https://www.weatherlink.com/js/6.32.5/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
 JavaScript warning: https://www.weatherlink.com/js/6.32.5/device/deviceValidators.js, line 504: unreachable code after return statement
 1611326128683	Marionette	INFO	Stopped listening on port 52796
+1611832567859	geckodriver	INFO	Listening on 127.0.0.1:56920
+1611832570948	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\PCTRAV~1\\AppData\\Local\\Temp\\rust_mozprofileg4xK98"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1611832669502	Marionette	INFO	Listening on port 56933
+or: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[Parent 13460, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1611832678696	Marionette	INFO	Listening on port 56995
+1611832682669	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.3.3/backbone.wreqr.min.js, line 12: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.babysitter/0.1.8/backbone.babysitter.min.js, line 11: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 676: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1323: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1326: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1765: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1780: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1783: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1786: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
+1611832731037	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.3.3/backbone.wreqr.min.js, line 12: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.babysitter/0.1.8/backbone.babysitter.min.js, line 11: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 676: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1323: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1326: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1765: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1780: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1783: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1786: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/device/deviceValidators.js, line 504: unreachable code after return statement
+1611832749100	Marionette	INFO	Stopped listening on port 56995
+[Parent 13460, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1611833667312	geckodriver	INFO	Listening on 127.0.0.1:57472
+1611833670369	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\PCTRAV~1\\AppData\\Local\\Temp\\rust_mozprofileXpfEOu"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611833675974	Marionette	INFO	Listening on port 57480
+1611833676163	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.3.3/backbone.wreqr.min.js, line 12: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.babysitter/0.1.8/backbone.babysitter.min.js, line 11: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 676: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1323: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1326: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1765: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1780: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1783: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1786: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.3.3/backbone.wreqr.min.js, line 12: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.babysitter/0.1.8/backbone.babysitter.min.js, line 11: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 676: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1323: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1326: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1765: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1780: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1783: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1786: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/device/deviceValidators.js, line 504: unreachable code after return statement
+1611833691135	Marionette	INFO	Stopped listening on port 57480
+1611834595785	geckodriver	INFO	Listening on 127.0.0.1:57815
+1611834598836	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\PCTRAV~1\\AppData\\Local\\Temp\\rust_mozprofileOKyyKj"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611834601614	Marionette	INFO	Listening on port 57827
+1611834602071	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.3.3/backbone.wreqr.min.js, line 12: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.babysitter/0.1.8/backbone.babysitter.min.js, line 11: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 676: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1323: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1326: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1765: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1780: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1783: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1786: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.3.3/backbone.wreqr.min.js, line 12: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.babysitter/0.1.8/backbone.babysitter.min.js, line 11: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 676: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1323: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1326: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1765: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1780: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1783: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1786: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/device/deviceValidators.js, line 504: unreachable code after return statement
+1611834616296	Marionette	INFO	Stopped listening on port 57827
+1611835520837	geckodriver	INFO	Listening on 127.0.0.1:58161
+1611835523913	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\PCTRAV~1\\AppData\\Local\\Temp\\rust_mozprofileyj1Ncz"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611835527198	Marionette	INFO	Listening on port 58173
+1611835527644	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.3.3/backbone.wreqr.min.js, line 12: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.babysitter/0.1.8/backbone.babysitter.min.js, line 11: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 676: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1323: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1326: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1765: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1780: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1783: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1786: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.3.3/backbone.wreqr.min.js, line 12: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.babysitter/0.1.8/backbone.babysitter.min.js, line 11: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 676: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1323: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1326: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1765: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1780: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1783: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1786: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/device/deviceValidators.js, line 504: unreachable code after return statement
+1611835541065	Marionette	INFO	Stopped listening on port 58173
+1611836445375	geckodriver	INFO	Listening on 127.0.0.1:58501
+1611836448424	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\PCTRAV~1\\AppData\\Local\\Temp\\rust_mozprofile2uePsz"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611836451540	Marionette	INFO	Listening on port 58509
+1611836451616	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.3.3/backbone.wreqr.min.js, line 12: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.babysitter/0.1.8/backbone.babysitter.min.js, line 11: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 676: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1323: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1326: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1765: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1780: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1783: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1786: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.3.3/backbone.wreqr.min.js, line 12: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.babysitter/0.1.8/backbone.babysitter.min.js, line 11: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 676: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1323: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1326: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1765: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1780: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1783: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1786: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/device/deviceValidators.js, line 504: unreachable code after return statement
+1611836465893	Marionette	INFO	Stopped listening on port 58509
+1611837370848	geckodriver	INFO	Listening on 127.0.0.1:58831
+1611837373938	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\PCTRAV~1\\AppData\\Local\\Temp\\rust_mozprofile2hBwEy"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611837377097	Marionette	INFO	Listening on port 58839
+1611837377158	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.3.3/backbone.wreqr.min.js, line 12: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.babysitter/0.1.8/backbone.babysitter.min.js, line 11: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 676: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1323: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1326: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1765: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1780: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1783: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1786: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.3.3/backbone.wreqr.min.js, line 12: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.babysitter/0.1.8/backbone.babysitter.min.js, line 11: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 676: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1323: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1326: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1765: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1780: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1783: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1786: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/device/deviceValidators.js, line 504: unreachable code after return statement
+1611837390893	Marionette	INFO	Stopped listening on port 58839
+1611838295543	geckodriver	INFO	Listening on 127.0.0.1:59168
+1611838298606	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\PCTRAV~1\\AppData\\Local\\Temp\\rust_mozprofilefHtyT5"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611838301874	Marionette	INFO	Listening on port 59176
+1611838302295	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.3.3/backbone.wreqr.min.js, line 12: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.babysitter/0.1.8/backbone.babysitter.min.js, line 11: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 676: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1323: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1326: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1765: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1780: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1783: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1786: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.3.3/backbone.wreqr.min.js, line 12: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.babysitter/0.1.8/backbone.babysitter.min.js, line 11: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 676: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1323: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1326: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1765: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1780: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1783: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1786: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/device/deviceValidators.js, line 504: unreachable code after return statement
+1611838317100	Marionette	INFO	Stopped listening on port 59176
+1611839221261	geckodriver	INFO	Listening on 127.0.0.1:59548
+1611839224300	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\PCTRAV~1\\AppData\\Local\\Temp\\rust_mozprofilezbOyJG"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611839227460	Marionette	INFO	Listening on port 59556
+1611839227501	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.3.3/backbone.wreqr.min.js, line 12: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.babysitter/0.1.8/backbone.babysitter.min.js, line 11: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 676: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1323: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1326: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1765: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1780: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1783: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1786: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.3.3/backbone.wreqr.min.js, line 12: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.babysitter/0.1.8/backbone.babysitter.min.js, line 11: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 676: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1323: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1326: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1765: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1780: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1783: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1786: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/device/deviceValidators.js, line 504: unreachable code after return statement
+1611839241403	Marionette	INFO	Stopped listening on port 59556
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1D0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1611840528791	geckodriver	INFO	Listening on 127.0.0.1:60208
+1611840531863	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\PCTRAV~1\\AppData\\Local\\Temp\\rust_mozprofileuhpDxF"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611840537800	Marionette	INFO	Listening on port 60217
+1611840538274	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.3.3/backbone.wreqr.min.js, line 12: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.babysitter/0.1.8/backbone.babysitter.min.js, line 11: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 676: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1323: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1326: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1765: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1780: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1783: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1786: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.3.3/backbone.wreqr.min.js, line 12: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.babysitter/0.1.8/backbone.babysitter.min.js, line 11: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 676: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1323: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1326: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1765: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1780: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1783: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1786: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/device/deviceValidators.js, line 504: unreachable code after return statement
+1611840557755	Marionette	INFO	Stopped listening on port 60217
+1611840561920	geckodriver	INFO	Listening on 127.0.0.1:60325
+1611840564869	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\PCTRAV~1\\AppData\\Local\\Temp\\rust_mozprofile9RFV3Z"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611840568336	Marionette	INFO	Listening on port 60333
+1611840568741	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.3.3/backbone.wreqr.min.js, line 12: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.babysitter/0.1.8/backbone.babysitter.min.js, line 11: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 676: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1323: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1326: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1765: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1780: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1783: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1786: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.3.3/backbone.wreqr.min.js, line 12: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.babysitter/0.1.8/backbone.babysitter.min.js, line 11: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 676: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1323: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1326: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1765: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1780: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1783: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1786: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/device/deviceValidators.js, line 504: unreachable code after return statement
+1611840583012	Marionette	INFO	Stopped listening on port 60333
+1611840586838	geckodriver	INFO	Listening on 127.0.0.1:60410
+1611840589902	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\PCTRAV~1\\AppData\\Local\\Temp\\rust_mozprofileaX1DtM"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611840593843	Marionette	INFO	Listening on port 60418
+1611840594097	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.3.3/backbone.wreqr.min.js, line 12: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.babysitter/0.1.8/backbone.babysitter.min.js, line 11: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 676: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1323: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1326: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1765: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1780: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1783: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1786: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.3.3/backbone.wreqr.min.js, line 12: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.babysitter/0.1.8/backbone.babysitter.min.js, line 11: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 676: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1323: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1326: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1765: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1780: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1783: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1786: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/device/deviceValidators.js, line 504: unreachable code after return statement
+1611840608089	Marionette	INFO	Stopped listening on port 60418
+1611840612044	geckodriver	INFO	Listening on 127.0.0.1:60488
+1611840615049	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\PCTRAV~1\\AppData\\Local\\Temp\\rust_mozprofilePtKABA"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611840618774	Marionette	INFO	Listening on port 60496
+1611840619237	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.3.3/backbone.wreqr.min.js, line 12: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.babysitter/0.1.8/backbone.babysitter.min.js, line 11: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 676: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1323: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1326: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1765: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1780: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1783: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1786: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.3.3/backbone.wreqr.min.js, line 12: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.babysitter/0.1.8/backbone.babysitter.min.js, line 11: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 676: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1323: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1326: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1765: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1780: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1783: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1786: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/device/deviceValidators.js, line 504: unreachable code after return statement
+1611840632794	Marionette	INFO	Stopped listening on port 60496
+1611840636772	geckodriver	INFO	Listening on 127.0.0.1:60571
+1611840639800	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\PCTRAV~1\\AppData\\Local\\Temp\\rust_mozprofile1HpunF"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611840643061	Marionette	INFO	Listening on port 60579
+1611840643499	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.3.3/backbone.wreqr.min.js, line 12: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.babysitter/0.1.8/backbone.babysitter.min.js, line 11: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 676: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1323: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1326: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1765: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1780: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1783: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1786: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.3.3/backbone.wreqr.min.js, line 12: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.babysitter/0.1.8/backbone.babysitter.min.js, line 11: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 676: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1323: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1326: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1765: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1780: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1783: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1786: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/device/deviceValidators.js, line 504: unreachable code after return statement
+1611840657941	Marionette	INFO	Stopped listening on port 60579
+1611840661725	geckodriver	INFO	Listening on 127.0.0.1:60656
+1611840664743	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\PCTRAV~1\\AppData\\Local\\Temp\\rust_mozprofilejydhQy"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611840667703	Marionette	INFO	Listening on port 60664
+1611840667927	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.3.3/backbone.wreqr.min.js, line 12: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.babysitter/0.1.8/backbone.babysitter.min.js, line 11: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 676: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1323: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1326: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1765: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1780: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1783: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1786: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.3.3/backbone.wreqr.min.js, line 12: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.babysitter/0.1.8/backbone.babysitter.min.js, line 11: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 676: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1323: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1326: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1765: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1780: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1783: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1786: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/device/deviceValidators.js, line 504: unreachable code after return statement
+1611840681787	Marionette	INFO	Stopped listening on port 60664
+1611840685930	geckodriver	INFO	Listening on 127.0.0.1:60746
+1611840689024	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\PCTRAV~1\\AppData\\Local\\Temp\\rust_mozprofilevu7f22"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611840692679	Marionette	INFO	Listening on port 60754
+1611840693217	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.3.3/backbone.wreqr.min.js, line 12: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.babysitter/0.1.8/backbone.babysitter.min.js, line 11: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 676: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1323: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1326: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1765: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1780: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1783: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1786: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.3.3/backbone.wreqr.min.js, line 12: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.babysitter/0.1.8/backbone.babysitter.min.js, line 11: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 676: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1323: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1326: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1765: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1780: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1783: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1786: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/device/deviceValidators.js, line 504: unreachable code after return statement
+1611840706906	Marionette	INFO	Stopped listening on port 60754
+1611840710736	geckodriver	INFO	Listening on 127.0.0.1:60823
+1611840713795	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\PCTRAV~1\\AppData\\Local\\Temp\\rust_mozprofileMvEWGg"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611840717325	Marionette	INFO	Listening on port 60839
+1611840717482	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.3.3/backbone.wreqr.min.js, line 12: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.babysitter/0.1.8/backbone.babysitter.min.js, line 11: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 676: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1323: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1326: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1765: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1780: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1783: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1786: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.3.3/backbone.wreqr.min.js, line 12: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.babysitter/0.1.8/backbone.babysitter.min.js, line 11: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 676: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1323: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1326: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1765: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1780: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1783: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1786: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/device/deviceValidators.js, line 504: unreachable code after return statement
+1611840731400	Marionette	INFO	Stopped listening on port 60839
+1611840735382	geckodriver	INFO	Listening on 127.0.0.1:60911
+1611840738466	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\PCTRAV~1\\AppData\\Local\\Temp\\rust_mozprofilejoFs0z"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611840742411	Marionette	INFO	Listening on port 60919
+1611840742663	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.3.3/backbone.wreqr.min.js, line 12: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.babysitter/0.1.8/backbone.babysitter.min.js, line 11: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 676: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1323: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1326: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1765: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1780: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1783: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1786: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.3.3/backbone.wreqr.min.js, line 12: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.babysitter/0.1.8/backbone.babysitter.min.js, line 11: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 676: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1323: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1326: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1765: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1780: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1783: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1786: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/device/deviceValidators.js, line 504: unreachable code after return statement
+1611840757098	Marionette	INFO	Stopped listening on port 60919
+1611840761265	geckodriver	INFO	Listening on 127.0.0.1:61001
+1611840764307	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\PCTRAV~1\\AppData\\Local\\Temp\\rust_mozprofileCttOZm"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611840768765	Marionette	INFO	Listening on port 61009
+1611840769126	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.3.3/backbone.wreqr.min.js, line 12: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.babysitter/0.1.8/backbone.babysitter.min.js, line 11: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 676: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1323: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1326: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1765: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1780: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1783: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1786: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.3.3/backbone.wreqr.min.js, line 12: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.babysitter/0.1.8/backbone.babysitter.min.js, line 11: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 676: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1323: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1326: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1765: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1780: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1783: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1786: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/device/deviceValidators.js, line 504: unreachable code after return statement
+1611840784530	Marionette	INFO	Stopped listening on port 61009
+1611840867896	geckodriver	INFO	Listening on 127.0.0.1:61122
+1611840870940	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\PCTRAV~1\\AppData\\Local\\Temp\\rust_mozprofilek6DcZU"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611840874395	Marionette	INFO	Listening on port 61130
+1611840874683	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.3.3/backbone.wreqr.min.js, line 12: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.babysitter/0.1.8/backbone.babysitter.min.js, line 11: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 676: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1323: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1326: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1765: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1780: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1783: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1786: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.3.3/backbone.wreqr.min.js, line 12: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.babysitter/0.1.8/backbone.babysitter.min.js, line 11: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 676: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1323: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1326: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1765: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1780: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1783: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1786: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/device/deviceValidators.js, line 504: unreachable code after return statement
+1611840888619	Marionette	INFO	Stopped listening on port 61130
+1611841082561	geckodriver	INFO	Listening on 127.0.0.1:61268
+1611841085650	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\PCTRAV~1\\AppData\\Local\\Temp\\rust_mozprofilelrVbjZ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611841088824	Marionette	INFO	Listening on port 61277
+1611841088885	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.3.3/backbone.wreqr.min.js, line 12: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.babysitter/0.1.8/backbone.babysitter.min.js, line 11: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 676: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1323: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1326: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1765: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1780: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1783: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1786: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.3.3/backbone.wreqr.min.js, line 12: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.babysitter/0.1.8/backbone.babysitter.min.js, line 11: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 676: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1323: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1326: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1765: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1780: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1783: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1786: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/device/deviceValidators.js, line 504: unreachable code after return statement
+1611841102792	Marionette	INFO	Stopped listening on port 61277
+1611842009508	geckodriver	INFO	Listening on 127.0.0.1:61955
+1611842012670	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\PCTRAV~1\\AppData\\Local\\Temp\\rust_mozprofilesAMOfa"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611842018967	Marionette	INFO	Listening on port 61963
+1611842019028	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.3.3/backbone.wreqr.min.js, line 12: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.babysitter/0.1.8/backbone.babysitter.min.js, line 11: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 676: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1323: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1326: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1765: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1780: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1783: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1786: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
+1611842031160	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.3.3/backbone.wreqr.min.js, line 12: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.babysitter/0.1.8/backbone.babysitter.min.js, line 11: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 676: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1323: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1326: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1765: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1780: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1783: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1786: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/device/deviceValidators.js, line 504: unreachable code after return statement
+1611842041182	Marionette	INFO	Stopped listening on port 61963
+[Parent 2992, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1611842488720	geckodriver	INFO	Listening on 127.0.0.1:62554
+1611842491788	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\PCTRAV~1\\AppData\\Local\\Temp\\rust_mozprofile8bP8AV"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611842495562	Marionette	INFO	Listening on port 62562
+1611842495961	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.3.3/backbone.wreqr.min.js, line 12: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.babysitter/0.1.8/backbone.babysitter.min.js, line 11: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 676: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1323: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1326: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1765: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1780: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1783: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1786: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.3.3/backbone.wreqr.min.js, line 12: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/backbone.babysitter/0.1.8/backbone.babysitter.min.js, line 11: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.6/js/modules/boost.js, line 55: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 676: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1323: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1326: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1765: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1780: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1783: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1786: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/vendor/davis/validation/formValidator.js, line 1789: unreachable code after return statement
+JavaScript warning: https://www.weatherlink.com/js/6.33.2/device/deviceValidators.js, line 504: unreachable code after return statement
+1611842511292	Marionette	INFO	Stopped listening on port 62562

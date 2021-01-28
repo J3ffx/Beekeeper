@@ -1,12 +1,27 @@
 <template>
-  <div class="MeteoGraphs">
-    <h1>Graphiques Météo</h1>
+  <div class="HiveGraphs">
+    <h1>Graphiques Ruches</h1>
     <br>
+    <span class="hiveChoice">
+     <label for="checkid"  style="word-wrap:break-word">
+        <input id="checkid" checked type="checkbox" value="hive1" />Ruche 1
+     </label>
+     <label for="checkid"  style="word-wrap:break-word">
+        <input id="checkid"  type="checkbox" value="hive2" />Ruche 2
+     </label>
+     <label for="checkid"  style="word-wrap:break-word">
+        <input id="checkid"  type="checkbox" value="hive3" />Ruche 3
+     </label>
+     <label for="checkid"  style="word-wrap:break-word">
+        <input id="checkid"  type="checkbox" value="hive4" />Ruche 4
+     </label>
+    </span>
+    <br/>
     <select class="sel type" name="data" id="data" v-on:change="renderChart($event.target.value)">
       <option class="opt" value="void">Sélectionner</option>
       <option class="opt" value="temp">Température</option>
-      <option class="opt" value="humi">Humidité</option>
-      <option class="opt" value="wind">Vitesse du Vent</option>
+      <option class="opt" value="weight">Poids</option>
+      <option class="opt" value="noise">Bruit</option>
       <option class="opt" value="test">Test</option>
     </select>
     <select class="sel group" name="rend" id="rend" v-show="this.toRender" v-on:change="groupData($event.target.value)">
@@ -174,7 +189,7 @@ export default {
         this.displayed = type
         switch (type) {
           case 'temp' :
-            chart.dataSource.url = 'http://localhost:1337/meteos'
+            chart.dataSource.url = 'http://localhost:1337/hives'
             chart.dataSource.adapter.add('parsedData', function (data) {
               let newData = []
               for (let i = 0; i < data.length; i++) {
@@ -191,42 +206,40 @@ export default {
             yText = 'Température (°C)'
             xText = 'Date'
             break
-          case 'humi' :
-            chart.dataSource.url = 'http://localhost:1337/meteos'
+          case 'weight' :
+            chart.dataSource.url = 'http://localhost:1337/hives'
             chart.dataSource.adapter.add('parsedData', function (data) {
               let newData = []
               for (let i = 0; i < data.length; i++) {
                 let row = data[i]
                 newData.push({
                   date: new Date(row.published_at),
-                  name: 'humidity' + i,
-                  value: parseInt(row.Batch[6].b.split(' %')[0])
+                  name: 'weight' + i,
+                  value: parseInt(row.Batch[6].b.split(' g')[0])
                 })
               }
               data = newData
               return data
             })
-            yText = 'Humidité (%)'
+            yText = 'Poids (g)'
             xText = 'Date'
             break
-          case 'wind' :
-            chart.dataSource.url = 'http://localhost:1337/meteos'
+          case 'noise' :
+            chart.dataSource.url = 'http://localhost:1337/hives'
             chart.dataSource.adapter.add('parsedData', function (data) {
               let newData = []
               for (let i = 0; i < data.length; i++) {
                 let row = data[i]
-                if (row.Batch[11].b.split(' ')[1] === 'km/h') {
-                  newData.push({
-                    date: new Date(row.published_at),
-                    name: 'humidity' + i,
-                    value: parseInt(row.Batch[11].b.split(' km/h')[0])
-                  })
-                }
+                newData.push({
+                  date: new Date(row.published_at),
+                  name: 'noise' + i,
+                  value: parseInt(row.Batch[11].b.split(' dB')[0])
+                })
               }
               data = newData
               return data
             })
-            yText = 'Vitesse du Vent (km/h)'
+            yText = 'Bruit (dB)'
             xText = 'Date'
             break
           case 'test' :
@@ -293,7 +306,7 @@ export default {
 <style scoped>
 div {
   width: 90vw;
-  height: 610px;
+  height: 635px;
   border: 5px rgb(200, 200, 200) solid;
   margin: auto;
   text-align: center;
@@ -358,7 +371,7 @@ select {
 }
 
 .type{
-  background: url(https://i.pinimg.com/originals/77/0b/80/770b805d5c99c7931366c2e84e88f251.png) 96% / 15% no-repeat #EEE;
+  background: url(https://image.flaticon.com/icons/png/512/263/263827.png) 96% / 15% no-repeat #EEE;
 }
 
 .group{
@@ -369,4 +382,22 @@ select {
   width: 100%;
   height: 500px;
 }
+
+[type="checkbox"]{
+  vertical-align:middle;
+}
+
+.hiveChoice{
+  color:white;
+  text-align:center;
+}
+
+label{
+  margin-right: 10px;
+}
+
+input{
+  margin-right:5px;
+}
+
 </style>

@@ -4,6 +4,8 @@
     <Separator/>
     <MeteoGraphs/>
     <Separator/>
+    <HiveGraphs/>
+    <Separator/>
     <MeteoTable :meteoData="data"/>
   </section>
 </template>
@@ -12,13 +14,15 @@
 import Separator from './Separator'
 import MeteoGraphs from './MeteoGraphs'
 import MeteoTable from './MeteoTable'
+import HiveGraphs from './HiveGraphs'
 
 export default {
   name: 'Data',
   components: {
     Separator,
     MeteoGraphs,
-    MeteoTable
+    MeteoTable,
+    HiveGraphs
   },
   data: function () {
     return {
